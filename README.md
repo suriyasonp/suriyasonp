@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Suriya.
-- 👀 I’m interested in C# .net, Flutter, Firebase.
-- 🌱 I’m currently learning Flutter app development, Firebase cloud store, WPF.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in C# .net, WPF, Flutter, Firebase, and ML/AI
+- 🌱 I’m currently learning ML/AL, WPF.
+- 📫 How to reach me https://medium.com/@suriyasonp
 
 <!---
 suriyasonp/suriyasonp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
