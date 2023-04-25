@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Suriya.
-- 👀 I’m interested in C# .net, WPF, Flutter, Firebase, and ML/AI
-- 🌱 I’m currently learning ML/AL, WPF.
+- 👀 I’m interested in C# .net, WPF, Flutter, Firebase, Python, and ML/AI
+- 🌱 I’m currently learning Python, ML/AL.
 - 📫 How to reach me https://medium.com/smile-programming
 
 <!---
